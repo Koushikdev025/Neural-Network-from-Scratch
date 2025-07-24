@@ -329,4 +329,5 @@ with torch.no_grad():
 
 print("\nSingle image experiment complete!")
 print("The network tried to reconstruct the single target image.")
+print("or you can try another image by your self and don't forget to add your own path!")
 
